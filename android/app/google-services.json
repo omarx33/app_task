@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "590725329302",
-    "project_id": "app-task-a94b1",
-    "storage_bucket": "app-task-a94b1.appspot.com"
+    "project_number": "815438310215",
+    "project_id": "appflutter-260cc",
+    "storage_bucket": "appflutter-260cc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:590725329302:android:64cace525647d524ac6db7",
+        "mobilesdk_app_id": "1:815438310215:android:7f793ac6fe9359e47a3a62",
         "android_client_info": {
           "package_name": "com.example.firebase_sem11"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC-Q8oZa1xRca9CWMf35mEvmtcLKZWspqQ"
+          "current_key": "AIzaSyBQSUtIqvWGZlU-YCz_etaJy7cyisJiwnc"
         }
       ],
       "services": {
